@@ -1,0 +1,2 @@
+# CSS_Pertemuan3
+1. Modifikasi tugas Pertemuan 1 (Membuat CV).     A. Gunakan fungsi-fungsi CSS yang ada dimodul dan video.     B. Gunakan  Inline Style, Internal Style (embedded Style), dan External Style.     C. Gunakan Element Selector, ID Selector, dan Class Selector 2. Lakukan pelatihan di https://www.w3schools.com/css/default.asp. Kemudian Buat laporan bahwa anda telah menyelesaikan pelatihan.  3. Kerjakan Latihan yang ada pada modul. 
